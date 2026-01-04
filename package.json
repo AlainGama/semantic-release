@@ -59,7 +59,7 @@
     "file-url": "3.0.0",
     "fs-extra": "9.1.0",
     "got": "11.8.5",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "mockserver-client": "5.14.0",
     "nock": "13.2.9",
     "p-retry": "4.6.2",
